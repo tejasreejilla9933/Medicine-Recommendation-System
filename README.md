@@ -1,4 +1,4 @@
- AI-Powered Health Care Prediction System
+## AI-Powered Health Care Prediction System
 
 A web application that predicts diseases based on symptoms and provides comprehensive health insights, including descriptions, precautions, medications, workouts, and diet recommendations.
 
